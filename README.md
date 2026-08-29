@@ -203,13 +203,9 @@ I like projects where **software meets hardware**.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krunalpandya1&show_icons=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krunalpandya1&layout=compact&theme=transparent" />
-</p>
+![GitHub followers](https://img.shields.io/github/followers/krunalpandya1?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/krunalpandya1?style=for-the-badge)
+![GitHub repositories](https://img.shields.io/badge/Repositories-2-blue?style=for-the-badge)
 
 ---
 
@@ -225,7 +221,3 @@ Backend          ███████████████████
 Security         ███████████████
 Hardware         █████████████
 
-<!---
-krunalpandya1/krunalpandya1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
